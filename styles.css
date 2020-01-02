@@ -1,0 +1,104 @@
+.red {
+    background-color: red;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.green{
+    background-color:green;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.purple{
+    background-color: purple;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.blue{
+    background-color:blue;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.orange{
+    background-color:orange;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.green{
+    background-color:green;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.brown{
+    background-color:brown;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.grey{
+    background-color:grey;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+.yellow{
+    background-color:yellow;
+    border-radius:90px;
+    width:50px;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+body{
+    background-color:grey;
+}
+h1{
+    color:white;
+}
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
